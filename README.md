@@ -32,14 +32,14 @@ linkedin : https://www.linkedin.com/in/kishanshr/
 ---
 
 ## 📸 Preview
-![Shopping Cart Preview](./preview.png)
+![Shopping Cart Preview](preview.jpg)
 
 ---
 
 ## 🚀 Getting Started
 1. Clone the repository:
 ```bash
- git clone <repository-url>
+ git clone <https://github.com/Kishan-shr/Shopping-Cart->
 ```
 2. Open the project folder:
 ```bash
