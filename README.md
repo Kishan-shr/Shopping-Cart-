@@ -1,6 +1,8 @@
 # Shopping-Cart-
 shopping cart built with pure HTML, CSS, and JavaScript. Add, remove, and update items with real-time calculations — no frameworks, just clean Vanilla JS.”
 # Shopping Cart 🛒
+## 📸 Preview
+![Shopping Cart Preview](preview.jpg)
 
 A simple, interactive Shopping Cart application built using **pure Vanilla JavaScript, HTML, and CSS**. No frameworks or libraries were used in this project.
 
@@ -31,8 +33,7 @@ linkedin : https://www.linkedin.com/in/kishanshr/
 
 ---
 
-## 📸 Preview
-![Shopping Cart Preview](preview.jpg)
+
 
 ---
 
